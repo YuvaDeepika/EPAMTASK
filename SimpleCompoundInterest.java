@@ -1,4 +1,5 @@
-// @author Yuva Deepikaimport java.util.Math;
+// @author Yuva Deepika
+import java.util.Math;
 
 public class SimpleCompoundInterest
 {
